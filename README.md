@@ -1,4 +1,4 @@
-# EVConsults Platform — Content Management System & Secure Admin Portal
+# EVConsults 
 
 This repository contains the complete codebase for **EVConsults** (evconsults.pk), a premium, responsive corporate consultancy website focused on electric vehicle charging infrastructure in Pakistan. It is built using **Next.js 14 App Router** and features a database-driven architecture using **Prisma ORM**, a secure credentials-based **Admin Panel** protected by **Auth.js (NextAuth v5)**, custom **Three.js animations** for hero backgrounds, and dynamic content modules.
 
@@ -115,7 +115,6 @@ After configuring your `.env.local` and running the seed command, start the deve
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the client-facing website, and [http://localhost:3000/admin](http://localhost:3000/admin) to manage the website content.
 
 ---
 
